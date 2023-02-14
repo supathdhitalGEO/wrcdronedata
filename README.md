@@ -4,7 +4,7 @@ This repository contains the grid drone data of Western Region Campus, Lamachaur
 using DGPS. These GCPs were post processing using RTKlib and the centimeter level accurate coordiates were used while preparing the orthophoto. The MetaShapePro sotware is used to process these images and it takes more than 12 hours to complete.The final report of data processing can be accessed from [here](https://github.com/supathdhitalGEO/wrcdronedata/blob/main/Report/Finalreport.pdf).The complete workflow of drone data aqisition to final preparation and its application can be accessed from [here](https://www.researchgate.net/profile/Supath-Dhital/publication/363948628_UAV_technology_its_application_principle_and_workflow_to_disaster_monitoring_and_emergency_response/links/6335b9bf76e39959d68559f5/UAV-technology-its-application-principle-and-workflow-to-disaster-monitoring-and-emergency-response.pdf).
 Here is the orthophoto final look. 
 <br>
-<img src="https://github.com/supathdhitalGEO/wrcdronedata/blob/main/Report/orthophoto.png"/> 
+<img src="https://github.com/supathdhitalGEO/wrcdronedata/blob/main/Report/Orthophoto.png"/> 
  
  ## Making Grids
  To make the data online, First we have to change to the small grids and this can be done usinf <b> QGIS </b>, an open source grographic data processing software. The .tif format orthophoto from MetaShapePro was loaded to the QGIS and do following steps on application to make the small grids.
