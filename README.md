@@ -26,4 +26,5 @@ Here is the orthophoto final look.
  <img src="https://github.com/supathdhitalGEO/wrcdronedata/blob/main/Report/TMSLayer.png"/>
  After that this will be online to JOSM. 
 
+## The report can be found from [Here](https://www.researchgate.net/publication/368535959_Orthophoto_Generation_Using_UAVA_Case_Study_of_Pashchimanchal_Campus_Pokhara).
 
